@@ -35,5 +35,3 @@ With a background in  software development, I have cultivated a deep understandi
 - Bachelor of Science (Information Systems Management) | Singapore Management University 
 
 ---
-
-I am dedicated to the DevOps culture and am always eager to stay up to date with the latest technologies and best practices in the field. Collaboration and continuous improvement are the cornerstones of my work. let's connect, share and learn more from each other in the field of DevOps.
