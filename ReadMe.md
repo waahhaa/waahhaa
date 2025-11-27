@@ -8,7 +8,7 @@
 
 ### About Me
 
-I am a passionate DevOps engineer with a relentless drive for optimizing software development and deployment processes. My journey in the world of technology has been nothing short of an exciting adventure, and I take pride in my ability to bridge the gap between development and operations, making software delivery more efficient, reliable, and scalable.
+I am a passionate DevOps engineer with a drive for optimizing software development and deployment processes. My journey in the world of technology has been nothing short of an exciting adventure, and I take pride in my ability to bridge the gap between development and operations, making software delivery more efficient, reliable, and scalable.
 
 With a background in  software development, I have cultivated a deep understanding of the entire software development lifecycle. My expertise lies in designing and implementing CI/CD pipelines, container orchestration, infrastructure as code, and cloud computing.
 
@@ -32,7 +32,7 @@ With a background in  software development, I have cultivated a deep understandi
 
 ### Education
 
-- Bachelor of Science (Information Systems Management | Singapore Management University | Graduated: May 2020
+- Bachelor of Science (Information Systems Management) | Singapore Management University 
 
 ---
 
