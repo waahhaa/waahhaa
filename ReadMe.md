@@ -26,12 +26,11 @@ With a background in software development, I have cultivated a deep understandin
 
 - Participate in the design and implementation of CI/CD pipelines and deployment platforms, reducing deployment time.
 - Orchestrated Openshift clusters for managing containerized applications, ensuring high availability and scalability.
-- Automated infrastructure provisioning using Ansible, resulting in cost savings and improved resource utilization.
-- Collaborated with development teams to enhance application performance and security through code reviews and best practices.
-- Contributed to the ideation of monitoring and alerting solutions (Grafana), reducing downtime and enhancing system reliability.
+- Collaborated with development teams to enhance application resiliency and security through sharing of best practices.
+- Contributed to the ideation of monitoring and alerting solutions, enhancing system health visibility
 
 ### Education
 
-- Bachelor of Science (Information Systems Management), Major in Information Security Assurance | Singapore Management University 
+- Bachelor of Science (Information Systems Management), Major in Advance Business Tech, Information Security Assurance | Singapore Management University 
 
 ---
